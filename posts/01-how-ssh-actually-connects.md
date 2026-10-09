@@ -1,6 +1,6 @@
 # How SSH actually works
 
-![SSH connection diagram](../assets/ssh-connection-diagram.png)
+![SSH connection diagram](../ssh.png)
 
 This week, playing through Bandit labs 0–5, I finally understood SSH (Secure Shell). The way I picture it now: SSH is a messenger that carries your credentials **to** the server — not the other way around.
 
