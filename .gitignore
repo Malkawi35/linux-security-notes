@@ -1,0 +1,11 @@
+# OS / editor junk — never commit these
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Drafts not ready to publish
+drafts/
