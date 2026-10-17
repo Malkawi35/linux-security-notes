@@ -15,5 +15,5 @@ One genuine post per week. Small and real beats big and rushed.
 | # | Post | Concept |
 |---|------|---------|
 | 01 | [How an SSH connection actually works](posts/01-how-ssh-actually-connects.md) | Encrypted tunnel before authentication |
-| 02 | _coming soon_ | Linux permissions & ownership |
+| 02 | [How Linux permissions work](posts/02-how-linux-permissions-work.md) | Identity, not force |
 | 03 | Hidden files and tricky filenames *(draft — next week)* | Dotfiles, `-` filenames, and the `--` convention |
